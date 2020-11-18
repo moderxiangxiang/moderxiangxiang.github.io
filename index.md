@@ -1,2 +1,2 @@
 # 向向的网站
-[XOM安装程序](installxom)
+[看视频](video)
